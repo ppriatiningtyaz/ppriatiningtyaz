@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Puspita Priatiningtyaz</h1>
 <h3>Frontend Developer</h3>
 
-Reach me at: https://www.linkedin.com/in/ppriatiningtyaz/
+Reach me at: https://www.linkedin.com/in/priatiningtyaz-puspita/
 
 
 <!--
