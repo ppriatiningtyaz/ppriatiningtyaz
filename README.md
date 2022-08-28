@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=ppriatiningtyaz&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
-<a href="https://github.com/wsaefulloh/wsaefulloh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsaefulloh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/ppriatiningtyaz/ppriatiningtyaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppriatiningtyaz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
