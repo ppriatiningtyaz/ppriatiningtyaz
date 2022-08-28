@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Puspita Priatiningtyaz</h1>
 <h3>Frontend Developer</h3>
 
+Reach me at: https://www.linkedin.com/in/ppriatiningtyaz/
+
+
 <!--
 **ppriatiningtyaz/ppriatiningtyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
