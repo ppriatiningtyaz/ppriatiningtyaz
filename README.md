@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Puspita Priatiningtyaz</h1>
-<h4>Frontend Developer</h4>
+<h3>Frontend Developer</h3>
 
 <!--
 **ppriatiningtyaz/ppriatiningtyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
