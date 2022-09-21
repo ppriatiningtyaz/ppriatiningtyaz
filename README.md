@@ -4,6 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ppriatiningtyaz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ppriatiningtyaz@gmail.com)](mailto:ppriatiningtyaz@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-ppriatiningtyaz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ppriatiningtyaz/)](https://www.github.com/ppriatiningtyaz/) 
+[![Github Badge](https://img.shields.io/badge/-ppriatiningtyaz-orange?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/ppriatiningtyaz/)](https://www.gitlab.com/ppriatiningtyaz/)
 [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priatiningtyaz-puspita/)](https://www.linkedin.com/in/priatiningtyaz-puspita/) 
 
 
