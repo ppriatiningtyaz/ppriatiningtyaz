@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Puspita Priatiningtyaz</h1>
-<h3>Frontend Developer</h3>
+<h3>Data Analyst | Frontend Developer</h3>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ppriatiningtyaz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ppriatiningtyaz@gmail.com)](mailto:ppriatiningtyaz@gmail.com)
